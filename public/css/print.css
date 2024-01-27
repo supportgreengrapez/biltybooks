@@ -1,0 +1,18 @@
+table {  
+width: 1000px; /**some value in px or %**/  
+border-bottom:2px solid #000;  
+}  
+  
+th.outer,  
+td.outer {  
+border-left: 2px solid #000;  
+border-right: 2px solid #000;  
+border-top: 2px solid #000;  
+padding: 0.5em;  
+}  
+  
+th.inner,  
+td.inner {  
+border-top: 2px solid #000;  
+padding: 0.5em;  
+} 
